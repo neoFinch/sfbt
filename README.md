@@ -1,6 +1,9 @@
 # sfbt
 Search files by type and you don't have to remember any flags. 😁
 
+![cli-tool](https://github.com/neoFinch/sfbt/assets/14983412/10248d96-b051-4270-b30a-8a31d23bb079)
+
+
 ## A cli tool for easy use
 
 ### How to build
